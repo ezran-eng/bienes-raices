@@ -48,6 +48,9 @@ img{
 .d-block{
     display: block!important;
 }
+.contenido-centrado{
+    max-width: 80rem;
+}
 
 /** Botones **/
 .boton{
